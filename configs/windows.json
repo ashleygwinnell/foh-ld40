@@ -1,0 +1,15 @@
+{
+	"name": "Windows",
+	"folder": "windows",
+	"platform": "windows",
+	"clean": true,
+	"defines": [
+
+	],
+	"include_dirs": [
+
+	],
+	"libs": [
+
+	]
+}

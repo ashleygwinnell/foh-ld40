@@ -1,0 +1,15 @@
+{
+	"name": "OS X",
+	"folder": "osx",
+	"platform": "osx",
+	"clean": false,
+	"defines": [
+		"USING_FMOD"
+	],
+	"include_dirs": [
+
+	],
+	"libs": [
+		"lib/osx/fmod/libfmod.dylib"
+	]
+}

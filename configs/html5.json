@@ -1,0 +1,31 @@
+{
+	"name": "HTML5",
+	"folder": "html5",
+	"platform": "html5",
+	"clean": false,
+	"defines": [
+		"USING_FMOD"
+	],
+	"include_dirs": [
+
+	],
+	"libs": [
+		"lib/html5/fmod/fmod.bc"
+	],
+
+	"modules": [
+		"core",
+		"ui",
+		"util",
+		"tests"
+	],
+
+	"html5": {
+		"osx": {
+			"emscripten_dir": "~/Projects/emsdk-portable",
+			"emscripten_version": "1.35.0"
+		},
+   		"game_width": 852,
+        "game_height": 480
+    }
+}

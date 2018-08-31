@@ -1,0 +1,37 @@
+{
+	"name": "Android",
+	"folder": "android",
+	"platform": "android",
+	"clean": true,
+	"defines": [
+
+	],
+	"include_dirs": [
+
+	],
+	"libs": [
+
+	],
+
+	"android": {
+		"sdk_dir": "~/.android/",
+   		"ndk_dir": "~/.android/android-ndk-r9",
+        "game_width": 640,
+        "game_height": 480,
+        "ndk_version": 9,
+        "sdk_version": 16,
+        "app_to_sd": true,
+        "audio_quality": 1,
+        "permissions": [
+            "INTERNET",
+            "WRITE_EXTERNAL_STORAGE",
+            "ACCESS_WIFI_STATE",
+            "ACCESS_NETWORK_STATE"
+        ],
+        "icon": {
+            "use_master_icon": true,
+            "icon": "%PREPRODUCTION_DIR%/icon/96.png"
+        }
+    }
+
+}

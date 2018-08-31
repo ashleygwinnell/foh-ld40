@@ -1,0 +1,89 @@
+todo
+
+player
+	tilt left/right 
+	arrows on desktop											done
+	player can jump? 											done
+	death gibs 													done
+
+boomerang
+	tap to throw												done
+	(try hold to charge, show projectile line)
+	returns to carl's start position							done
+	travels to tap point (at that point it's perpendicular)		
+	ellipse
+
+enemies (floating in the sky)
+	santa flying across the screen								done
+		regular intervals										done
+		various angles											done
+		dropping bombs											done									
+		can be hit 												done
+			shake fist											done
+			drops a present 									done
+		reindeer hit
+			exposion to ground everything
+		particles on sleigh
+	festive mole (singular on screen) 							done
+		pops up next to player									done
+		can kill player 										done
+	gingerbread man on surf board
+		dropping raisins
+	mistletoe													done
+		multiple hit points										done
+		blows floaty kisses at carl								done
+		gibs/particles on death.
+	christmas pudding 											done
+		explodes into flames if hits ground						done
+		gibs particles on death.
+	home alone dvds
+	wise men 
+		walking in from left/right.
+
+presents 
+	to spawn													
+	to collect													done
+	collect gib/particles/effect
+
+upgrades
+	spend presents to buy
+	weapon:
+		3x boomerangs
+			more boomerangs
+		strong boomerangs
+			boomerangs are penetrating
+		magnetic boomerang
+			boomerangs come back to you better. 
+		book of aerodynamic design
+			increase boomerang speed
+
+	health:
+		second life
+			two lives, innit.
+		fire protection
+			immune against flames
+		dvd player
+			you can now watch those home alone dvds. 
+
+	boots/floor:
+		moon boots												done
+			move quickly										done
+		hoverboard 												done
+			move smoothly										done
+			immune to moles except at spawn						done
+		football boots
+			immune to moles at all times (stompy bloody moles)
+
+powerups
+	star of bethlehem
+		grows out of star on screen
+		explodes smart bomb all screen							done
+
+misc:
+	halo to show lives											done
+
+SNOW! MAKE SNOW! 
+
+	
+	
+
